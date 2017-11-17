@@ -11,7 +11,7 @@ react加es6做的评论小项目
 
 主要用到的技术有reactjs、es6、css、HTML、JavaScript。
 
-复制项目地址：
+复制项目地址：https://github.com/Laypeng/react-project.git
 
 安装依赖库npm install
 
